@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,b as c}from"./app-11933482.js";const _={},n=c("p",null,"一个小菜鸡，如需联系请发邮件至：hei_zwx@163.com",-1),s=[n];function r(a,i){return o(),t("div",null,s)}const m=e(_,[["render",r],["__file","index.html.vue"]]);export{m as default};
